@@ -10,9 +10,9 @@ class LandingJumbo extends Component {
                         <div className="sidebar-brand-icon rotate-n-15 mr-2">
                             <i className="far fa-user-circle" />
                         </div> 
-                        <div>TITLE</div>
+                        <div>Hunter First Aid </div>
                     </h1>
-                    <h2 className='text-center companySlogan'>BEST SLOGAN HERE</h2>
+                    <h2 className='text-center companySlogan'>Student Portal</h2>
                 </div>
             </div>
         );
